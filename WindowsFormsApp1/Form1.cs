@@ -24,7 +24,9 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("button2 was clicked");
+            MessageBox.Show("Подтвердите выход");
+            
+           
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
